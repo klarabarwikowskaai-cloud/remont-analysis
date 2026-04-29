@@ -11,7 +11,7 @@ Znaleziono siedem ofert wykończenia mieszkania na podstawie przesłanych projek
 | **Krzysztof Górski** | 144 000 zł | materiały z 10% upustem w Castorama (klient otrzymuje zwrot) | ~9 tygodni | 3 lata | Ekipa sześciuosobowa, możliwy start od połowy maja. |
 | **Opi Bud** (Andrzej Opatowski) | 125 000 zł | klient kupuje materiały (zniżki przez ekipę) | 10–12 tygodni | 24 miesiące + umowa | szczegółowy zakres prac unitami, możliwość aneksów, współpraca z marketami budowlanymi. |
 | **Glib Kolbasin** | 99 000 zł (prace) + 2 000 zł transport | klient kupuje materiały | nie podano | nie podano | bardzo szczegółowa wycena jednostkami, podzielona na części mieszkania. |
-| **Wyremontowani** | 95 264 zł | nie podano | nie podano | nie podano | szczegółowy kosztorys w załączniku Markdown z cenami jednostkowymi. |
+| **Wyremontowani** | 106 503,21 zł netto | nie podano | nie podano | nie podano | szczegółowy kosztorys w załączniku Markdown "WYREMONTOWANI INWEST SP. Z O.O..md" (brutto 8%: 115 023,47 zł; brutto 23%: 130 998,95 zł). |
 | **Paweł Ochowicz** | 95 264 zł | nie podano | nie podano | nie podano | szczegółowa wycena w załączniku Markdown "Kosztorys Daniel Barwikowski.md". |
 
 ## Szczegóły ofert

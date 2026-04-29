@@ -10,9 +10,11 @@ Kosztorys jest orientacyjny – wymaga jeszcze doprecyzowania zakresu oraz techn
 W kosztorysie uwzględniono ceny jednostkowe, co ułatwia ewentualne modyfikacje.
 
 ## Koszt
-Łączny koszt wykończenia domu: **95 264 zł**
+Łączny koszt wykończenia domu według oferty firmy: **106 503,21 zł netto** (brutto 8%: 115 023,47 zł; brutto 23%: 130 998,95 zł)
 
-Szczegółowy podział kosztów znajduje się w załączniku Markdown: "Kosztorys Daniel Barwikowski.md".
+Szczegółowy podział kosztów znajduje się w załączniku Markdown: "WYREMONTOWANI INWEST SP. Z O.O..md".
+
+*Nota: Kosztorys nie obejmuje materiałów. Może on ulec zmianie w zależności od rzeczywistych wymiarów oraz zakresu prac po rozpoczęciu realizacji. Prace dodatkowe, które nie zostały ujęte w kosztorysie, będą wyceniane osobno po wcześniejszym uzgodnieniu.*
 
 ## Termin realizacji
 Nie podano w wiadomości.
