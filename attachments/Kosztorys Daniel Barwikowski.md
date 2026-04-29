@@ -1,97 +1,30 @@
-# Kosztorys Daniel Barwikowski
+# Kosztorys – Daniel Barwikowski
 
-## Łączny koszt
+## Zakres prac
 
-95 264 zł
+| Zakres prac | Ilość | Cena jednostkowa | Cena robocizny (netto) |
+|---|---:|---:|---:|
+| Zabiezpieczenia okien i drzwi folią i tasmą | 1 | 800 | 800 |
+| Montaż sufitu podwieszanego | 38,1 | 180 | 6858 |
+| Dostosowania punktów ełektrycznych | 3 | 90 | 270 |
+| Gruntowania ścian i sufitów gruntem głębokoprzenietrującym, m2;mb | 452,9 | 5 | 2264,5 |
+| Układania gładzi (2-3 krotnie), m2;mb | 452,9 | 38 | 17210,2 |
+| Gruntowania scian i sufitów grunt-farbą podkładową, m2;mb | 452,9 | 7 | 3170,3 |
+| Akrylowania kątów wewnętrznych | 1 | 600 | 600 |
+| Malowania (2-3 krotnie) ścian i sufity, m2;mb | 452,9 | 23 | 10416,7 |
+| Montaż i malowania sztukaterii, mb *(podana orientacyjna ilość)* | 71,4 | 75 | 5355 |
+| Montaż i malowania sztukaterii przysufitowej, mb *(podana orientacyjna ilość)* | 98,46 | 85 | 8369,1 |
+| Ukladania płytek w pasie roboczym kuchiennym | 2,8 | 180 | 504 |
+| Ukladania płytek na posadzce | 13,8 | 150 | 2070 |
+| Układania panele podłogowych | 108,3 | 42 | 4548,6 |
+| Montaż listew przypodłogowych | 82,9 | 29 | 2404,1 |
+| Montaż oswiatłenia LED | 2 | 180 | 360 |
+| Montaż łamp oświetłeniowych *(podana orientacyjna ilość)* | 20 | 90 | 1800 |
+| Montaż gniazd i włączników *(podana orientacyjna ilość)* | 40 | 25 | 1000 |
 
----
+### Ogólna cena:
+**65200,5**
 
-# Główne prace
+# Ogólna cena wszystkich prac
 
-| Zakres | Cena netto |
-|---|---|
-| Zabezpieczenia | 800 |
-| Sufit podwieszany | 6858 |
-| Dostosowanie punktów elektrycznych | 270 |
-| Gruntowanie | 2264,5 |
-| Gładzie | 17210,2 |
-| Grunt-farba | 3170,3 |
-| Akrylowanie | 600 |
-| Malowanie | 10416,7 |
-| Sztukateria | 5355 |
-| Sztukateria przysufitowa | 8369,1 |
-| Płytki kuchenne | 504 |
-| Płytki podłogowe | 2070 |
-| Panele podłogowe | 4548,6 |
-| Listwy przypodłogowe | 2404,1 |
-| LED | 360 |
-| Lampy | 1800 |
-| Gniazda i włączniki | 1000 |
-
-## Ogólna cena części głównej
-
-65 200,5 zł
-
----
-
-# Łazienka WC
-
-## Cena
-
-7235 zł
-
-## Zakres
-
-- Zabudowa WC
-- Hydroizolacja
-- Płytki 60x60 i 40x120
-- Szlifowanie 45°
-- Otwory w płytkach
-- Silikonowanie
-- Sufit
-- Armatura
-- Montaż WC
-- Montaż umywalki
-- Lustro
-- LED
-
----
-
-# Pralnia (1.5)
-
-## Cena
-
-12 014 zł
-
-## Zakres
-
-- Zabudowa WC
-- Odpływ liniowy / brodzik
-- Hydroizolacja
-- Płytki
-- Koperta/spadki
-- Kabina prysznicowa
-- Armatura
-- Grzejnik
-- Lustro
-
----
-
-# Łazienka (1.8)
-
-## Cena
-
-10 814,5 zł
-
-## Zakres
-
-- Zabudowa WC
-- Bateria podtynkowa
-- Hydroizolacja
-- Płytki
-- Szlifowanie 45°
-- Wanna wolnostojąca
-- Armatura
-- Lustro
-- Lampy
-- LED
+**95264**
