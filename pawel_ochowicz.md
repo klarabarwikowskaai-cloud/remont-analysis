@@ -9,7 +9,7 @@ Wykonanie prac remontowo-wykończeniowych „pięknie, jak najładniej, bardzo j
 W treści wiadomości nie podano szczegółowego zakresu prac ani wyceny.
 
 ## Koszt
-Nie podano w wiadomości. Załącznik PDF: "Kosztorys Daniel Barwikowski.pdf" wymaga dalszej analizy.
+Szczegółowa wycena znajduje się w załączniku: "Kosztorys Daniel Barwikowski.md" (łączny koszt: 95 264 zł).
 
 ## Termin realizacji
 Nie podano.

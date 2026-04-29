@@ -12,7 +12,7 @@ Znaleziono siedem ofert wykończenia mieszkania na podstawie przesłanych projek
 | **Opi Bud** (Andrzej Opatowski) | 125 000 zł | klient kupuje materiały (zniżki przez ekipę) | 10–12 tygodni | 24 miesiące + umowa | szczegółowy zakres prac unitami, możliwość aneksów, współpraca z marketami budowlanymi. |
 | **Glib Kolbasin** | 99 000 zł (prace) + 2 000 zł transport | klient kupuje materiały | nie podano | nie podano | bardzo szczegółowa wycena jednostkami, podzielona na części mieszkania. |
 | **Wyremontowani** | 95 264 zł | nie podano | nie podano | nie podano | szczegółowy kosztorys w załączniku Markdown z cenami jednostkowymi. |
-| **Paweł Ochowicz** | nie podano (PDF) | nie podano | nie podano | nie podano | brak szczegółów w treści, załącznik PDF wymaga analizy. |
+| **Paweł Ochowicz** | 95 264 zł | nie podano | nie podano | nie podano | szczegółowa wycena w załączniku Markdown "Kosztorys Daniel Barwikowski.md". |
 
 ## Szczegóły ofert
 
@@ -26,8 +26,9 @@ Znaleziono siedem ofert wykończenia mieszkania na podstawie przesłanych projek
 
 ## Załączniki
 
-- `/attachments/wyremontowani.pdf` – kosztorys firmy Wyremontowani
-- `/attachments/pawel_ochowicz.pdf` – kosztorys firmy Pawła Ochowicza
+- `/attachments/Kosztorys Daniel Barwikowski.md` – szczegółowy kosztorys firmy Wyremontowani oraz Paweł Ochowicz (ceny jednostkowe)
+- `/attachments/WYREMONTOWANI INWEST SP. Z O.O..md` – dodatkowe informacje o firmie Wyremontowani
+- `/attachments/wyremontowani.pdf` – oryginalny kosztorys PDF firmy Wyremontowani
 
 ## Wnioski
 
